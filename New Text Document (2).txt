@@ -9,3 +9,5 @@ Author: Venkatesh
 4.Attachements (Image,Audio, video) code
 
 5.hiding the last seen
+6.ADDING THE audio call fwwature
+7.Video call feature
