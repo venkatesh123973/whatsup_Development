@@ -1,0 +1,9 @@
+Author: Venkatesh
+
+1. Profile page code
+
+2. Chat screen code
+
+3.last seen code
+
+4.Attachements (Image,Audio, video) code
