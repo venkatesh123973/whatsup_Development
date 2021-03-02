@@ -7,3 +7,5 @@ Author: Venkatesh
 3.last seen code
 
 4.Attachements (Image,Audio, video) code
+
+5.hiding the last seen
